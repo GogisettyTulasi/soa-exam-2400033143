@@ -15,11 +15,11 @@ public class SwaggerConfig
     {
         return new OpenAPI()
                 .info(new Info()
-                        .title("User Service API")
+                        .title("Package Tracking Service API")
                         .version("1.0")
                         .description("REST API Documentation")
                         .contact(new Contact()
-                                .name("KLUniversity")
+                                .name("Tulasi Gogisetty")
                                 .email("tulasigogisetty@gmail.com")));
     }
 }

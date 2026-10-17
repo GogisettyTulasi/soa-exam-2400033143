@@ -42,5 +42,4 @@ public class PackageTrackingController
 		return service.delete(id);
 	}
 	
-	
 }
